@@ -1,0 +1,60 @@
+{
+  "sliceLinesUnordered": {
+    "Example": [
+      0,
+      1,
+      2,
+      3
+    ]
+  },
+  "dependencies": {
+    "Example:5": {
+      "data": {
+        "from": [
+          {
+            "variableName": "",
+            "location": {
+              "clazz": "Example",
+              "lineNo": 4
+            }
+          }
+        ],
+        "to": [
+          {
+            "variableName": "",
+            "location": {
+              "clazz": "Example",
+              "lineNo": 9
+            }
+          }
+        ]
+      },
+      "control": {
+        "from": [],
+        "to": []
+      }
+    },
+    "Example:6": {
+      "data": {
+        "from": [
+          {
+            "variableName": "",
+            "location": {
+              "clazz": "Example",
+              "lineNo": 4
+            }
+          }
+        ],
+        "to": []
+      },
+      "control": {
+        "from": [],
+        "to": []
+      }
+    }
+  },
+  "firstLine": {
+    "clazz": "Example",
+    "lineNo": 2
+  }
+}

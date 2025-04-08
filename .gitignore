@@ -1,0 +1,18 @@
+# 忽略整个build目录
+/build/
+
+# IntelliJ IDEA项目文件
+.idea/
+*.iml
+*.iws
+*.ipr
+out/
+
+# 编译的Java类文件
+*.class
+
+# 日志文件
+*.log
+
+# Gradle文件
+.gradle/
